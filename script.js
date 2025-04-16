@@ -5,4 +5,4 @@ console.log("Learning sync from remote to local");
 console.log("commit to force changes to remote repo");
 console.log("Changes made in detached HEAD");
 // Version CSS
-//Made changes in all the files
+//This is specific to version JS
